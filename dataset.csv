@@ -1,0 +1,91 @@
+text,sentiment
+"I love this product so much!",Positive
+"This is absolutely amazing, best purchase ever!",Positive
+"Fantastic service and great quality",Positive
+"Really happy with the results, exceeded expectations",Positive
+"Outstanding performance, highly recommend",Positive
+"Best app I have ever used, very intuitive",Positive
+"Great value for money, totally satisfied",Positive
+"Wonderful experience from start to finish",Positive
+"Superb quality, arrived on time and works perfectly",Positive
+"Incredible features and smooth performance",Positive
+"I am so happy with this, 10/10 would buy again",Positive
+"Perfect product, exactly what I needed",Positive
+"Really enjoying this, makes my life easier",Positive
+"Top notch service, very professional staff",Positive
+"Brilliant design and works flawlessly",Positive
+"Absolutely delightful experience",Positive
+"Very impressed with the quality and speed",Positive
+"This made my day, so glad I bought it",Positive
+"Excellent value and fast delivery",Positive
+"Amazing results, completely blown away",Positive
+"Worst experience of my life, never again",Negative
+"Absolutely terrible, do not waste your money",Negative
+"Complete garbage, broke after one day",Negative
+"Horrible customer service, very rude staff",Negative
+"Total disappointment, nothing works as advertised",Negative
+"Disgusting quality, fell apart immediately",Negative
+"Waste of money, regret this purchase deeply",Negative
+"Very frustrating, stopped working after a week",Negative
+"Poor quality and terrible support",Negative
+"Awful product, completely useless",Negative
+"Do not buy this, biggest mistake ever",Negative
+"Broken on arrival, no refund offered",Negative
+"Scam product, does not do what it claims",Negative
+"Terrible battery life and overheats constantly",Negative
+"Extremely poor build quality, very disappointed",Negative
+"Cannot believe how bad this is",Negative
+"Zero stars if I could, absolutely dreadful",Negative
+"Bad service, rude staff and long wait times",Negative
+"Product stopped working after two uses",Negative
+"Pathetic performance, total waste of time and money",Negative
+"It is okay, nothing particularly special",Neutral
+"The product arrived on time",Neutral
+"It works as described in the listing",Neutral
+"Standard quality, meets basic expectations",Neutral
+"Delivery was fine, product is average",Neutral
+"It does what it says, nothing more nothing less",Neutral
+"Fairly ordinary experience overall",Neutral
+"The item is acceptable for the price",Neutral
+"No complaints but nothing impressive either",Neutral
+"Works fine, just a regular everyday product",Neutral
+"Average quality, not bad not great",Neutral
+"It is a decent product for casual use",Neutral
+"The packaging was fine and delivery was on schedule",Neutral
+"Product functions as expected",Neutral
+"Mediocre but does the job",Neutral
+"Nothing to complain about, fairly standard",Neutral
+"It is what it is, pretty standard",Neutral
+"Received the item, it is okay",Neutral
+"Neither impressed nor disappointed",Neutral
+"Basic product, does exactly what it needs to",Neutral
+"I love the design but the performance is terrible",Mixed
+"Great features but horrible customer support",Mixed
+"Fast delivery but the product quality is disappointing",Mixed
+"The app looks beautiful but crashes too often",Mixed
+"Good battery life but the screen is very dim",Mixed
+"Excellent build quality but way too expensive",Mixed
+"I like the concept but the execution is poor",Mixed
+"Nice packaging but the product inside is flimsy",Mixed
+"Good value for money but takes forever to ship",Mixed
+"The food was delicious but the service was awful",Mixed
+"Really useful features but the interface is confusing",Mixed
+"Comfortable to wear but falls apart quickly",Mixed
+"Strong performance but makes too much noise",Mixed
+"I enjoy using it but the setup process is a nightmare",Mixed
+"The camera is amazing but the phone overheats badly",Mixed
+"Great for beginners but experts will find it lacking",Mixed
+"Love the color and style but the size runs small",Mixed
+"Affordable price but you definitely get what you pay for",Mixed
+"Impressive on first use but durability is questionable",Mixed
+"The product has potential but needs a lot of improvement",Mixed
+"Solid device overall but battery drains too fast",Mixed
+"Beautiful aesthetics but terrible software experience",Mixed
+"Easy to install but the instructions are unclear",Mixed
+"Good flavor but the texture was a bit off",Mixed
+"Helpful staff but the wait time was unacceptable",Mixed
+"The hotel room was clean but the noise level was unbearable",Mixed
+"Loved the story but the ending was very disappointing",Mixed
+"Great content but the app is too slow to navigate",Mixed
+"Excellent material quality but stitching came undone fast",Mixed
+"I appreciate the effort but the result missed the mark",Mixed
